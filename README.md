@@ -19,7 +19,7 @@ Después de numerosas modificaciones, en este diagrama de clases se han introduc
 
 * En el sistema se incluyen la suscripción con los añadidos de pago y tarjeta de crédito. En este sentido, los temas negociados y comprados serán considerados como un tipo de datos que actualizará el estatus de las canciones en la propia BD; no obstante, el tema de la negociación para la adquisición de derechos de explotación comercial se realizará entre humanos y la aplicación solo conocerá el resultado final de dicha negociación cuando esta requiera de la modificación de su base de datos.
 
-![](https://i.imgur.com/BTLVFGv.png)
+![](https://i.imgur.com/XVNDm0e.png)
 
 
 ## Desarrollo de algunas clases en Java
